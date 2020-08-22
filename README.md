@@ -1,6 +1,6 @@
-# myapp
+# LugGate
 
-A new Flutter application.
+LugGate is the first-ever fully automated end-to-end pipeline for luggage damage detection using state-of-the-art 3D photogrammetry and neural rendering techniques. 
 
 ## Getting Started
 
