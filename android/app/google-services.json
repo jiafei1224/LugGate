@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268806617310",
+    "firebase_url": "https://codeexp.firebaseio.com",
+    "project_id": "codeexp",
+    "storage_bucket": "codeexp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268806617310:android:67bbb14603e1118695ea4f",
+        "android_client_info": {
+          "package_name": "com.flutter.firebase.example.flutterfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268806617310-bg4ps9s5589vkqevfuslg64irpvshmdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4329A5C6Rrr8e0XdJdXSEQZCkJCRVpw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268806617310-bg4ps9s5589vkqevfuslg64irpvshmdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
